@@ -41,7 +41,7 @@ header{
 .capivara{
     width:8%;
     height:9%;
-    padding-left:  1600px;
+    padding-left:  1700px;
 }
 .tenis1{
 padding-left: 3px;
@@ -144,4 +144,8 @@ button{
     font-size: 15px;
     cursor: pointer;
 }
+.cont{
+background-color: rgba(0, 0, 0, 0.9);
+width: 310px;
 
+}
